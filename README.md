@@ -1,6 +1,6 @@
 # Ciencia de Redes - Semestre 2021-2
 
-Este repositorio contiene el material del curso Ciencia de Redes correspondiente al semestre 2021-2. 
+Este repositorio contiene el material del curso Ciencia de Redes correspondiente al semestre 2021-1. 
 Aquí encontrarás notebooks, tareas y proyectos relacionados con el estudio de redes complejas, incluyendo redes reales, modelos teóricos y sus propiedades.
 
 ## Contenido
