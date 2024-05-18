@@ -36,6 +36,8 @@ Aquí encontrarás notebooks, tareas y proyectos relacionados con el estudio de 
 - **Importa los datos en los notebooks de manera adecuada:**
   -Asegúrate de que los archivos de datos están en el mismo directorio que los notebooks o proporciona la ruta correcta al cargar los datos. Por ejemplo, para cargar un archivo .edges en un notebook, usa:
     import networkx as nx
+  
     G = nx.read_edgelist('ruta_al_archivo.edges', create_using=nx.DiGraph())
+
     Ajusta 'ruta_al_archivo.edges' según la ubicación del archivo de datos en tu sistema.
 
